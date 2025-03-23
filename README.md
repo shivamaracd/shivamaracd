@@ -18,7 +18,7 @@
         <li>🎓 I'm a <strong>Computer Science Graduate</strong> from Faculty of Science, Awadh University.</li>
         <li>🌱 I’m currently learning <strong>Spring</strong> and <strong>Javascript </strong>.</li>
         <li>💡 I love using <strong>Software</strong> as a solution for every <strong>Problem</strong>.</li>
-        <li>📄 I’m currently open for a new <strong>job opportunity</strong>, this is <a href="https://drive.google.com/file/d/1P7-IIn4HQgBHXTd7KNJL2alPc9VPuhOO/view?usp=sharing"><strong>my resume</strong></a>.</li>
+        <li>📄 I’m currently open for a new <strong>job opportunity</strong>, this is <a href="https://drive.google.com/file/d/1GDo1wOQfjGVkM4C6WEd8gOyBqPaku3cf/view?usp=sharing"><strong>my resume</strong></a>.</li>
         <li>⚡ You can visit <a href="https://your-website-link.com"><strong>my website</strong></a>.</li>
       </ul>
     </td>
